@@ -12,7 +12,8 @@ A highly advanced password wordlist generator based on deep user profiling. This
 
 ## 🛠️ How to Run
 1. Clone the repo: `git clone https://github.com/smallhacker-436/Advanced-Passwd-Cupp.git`
-2. Run the script: `python3 generator.py`
+2.`cd Advanced-Passwd-Cupp`
+3. Run the script: `python3 passwd_generte.py`
 
 ## ⚠️ Disclaimer
 For educational purposes only. Use it responsibly.
